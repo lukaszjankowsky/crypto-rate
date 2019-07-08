@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-rate/static/css/main.e83e4c91.chunk.css",
+    "main.js": "/crypto-rate/static/js/main.fefe091f.chunk.js",
+    "main.js.map": "/crypto-rate/static/js/main.fefe091f.chunk.js.map",
+    "runtime~main.js": "/crypto-rate/static/js/runtime~main.bb15693c.js",
+    "runtime~main.js.map": "/crypto-rate/static/js/runtime~main.bb15693c.js.map",
+    "static/js/2.b2ca986f.chunk.js": "/crypto-rate/static/js/2.b2ca986f.chunk.js",
+    "static/js/2.b2ca986f.chunk.js.map": "/crypto-rate/static/js/2.b2ca986f.chunk.js.map",
+    "index.html": "/crypto-rate/index.html",
+    "precache-manifest.597f2d5e634ff09950c922ed4b4292c5.js": "/crypto-rate/precache-manifest.597f2d5e634ff09950c922ed4b4292c5.js",
+    "service-worker.js": "/crypto-rate/service-worker.js",
+    "static/css/main.e83e4c91.chunk.css.map": "/crypto-rate/static/css/main.e83e4c91.chunk.css.map"
+  }
+}
